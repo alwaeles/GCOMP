@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 002227-2081
+D Molex KK 6410 series 8 channels
+K Molex KK 6410 series 8 channels 002227-2081
+F https://www.molex.com/pdm_docs/sd/022272081_sd.pdf
+$ENDCMP
+#
+$CMP 087715-9006
+D Molex PCI Express x1
+K Molex PCI Express x1 087715-9006
+F https://www.molex.com/pdm_docs/sd/877159006_sd.pdf
+$ENDCMP
+#
+$CMP ESP32-DEVKITC-32D
+D Espressif Systems ESP32 Development Board
+K Espressif Systems ESP32 Development Board ESP32-DEVKITC-32D
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+$CMP VOH1016AG-V
+D Vishay Semiconductors Optocoupler 5kV
+K Vishay Semiconductors Optocoupler 5kV VOH1016AG-V
+F http://www.vishay.com/docs/84896/voh1016ab.pdf
+$ENDCMP
+#
+#End Doc Library
